@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import os
 
-path = "./train1/"
+path = "./train/"
 
 known_names = []
 known_name_encodings = []
@@ -20,7 +20,7 @@ for _ in images:
 
 print(known_names)
 
-test_image = "./test1/test.jpg"
+test_image = "./test/test.jpg"
 image = cv2.imread(test_image)
 # image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 

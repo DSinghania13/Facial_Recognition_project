@@ -8,3 +8,5 @@ In this project we have used:
 
 NOTE:
   To install face-recognition library you first need to install dlib.
+
+You can take your own datasets. In this project we have used the cast of the famous american web series “The Office” as the dataset.

@@ -44,6 +44,6 @@ for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodi
 
 
 cv2.imshow("Output", image)
-cv2.imwrite("./result1.jpg", image)
+cv2.imwrite("./result.jpg", image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()

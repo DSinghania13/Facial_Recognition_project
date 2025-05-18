@@ -78,4 +78,4 @@ Facial_Recognition_Project/
 ---
 
 ## 👨‍💻 Author
-*Developed by [Divit Singhania](https://www.linkedin.com/in/divit-singhania-13401628a/).
+* Developed by [Divit Singhania](https://www.linkedin.com/in/divit-singhania-13401628a/).
